@@ -17,3 +17,8 @@ Created new directory within the Odin - Recipes directory "Recipes"
 Added new html page "Empanadas" added link to page in the "index.html" page.
 
 Added image of food, 3 paragraphs describing the food and it's origins and Ol and UL steps and ingredients.
+
+12/27/22
+Created new recipe pages and linked them to the index file.
+Added images, ingredients and steps to the respective pages.
+Continue to practice adding, committing, and pushing git updates. Starting to get the hang of it.
