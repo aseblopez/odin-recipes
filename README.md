@@ -15,3 +15,5 @@ went back to naming it index.html, realized I created the wrong page.
 
 Created new directory within the Odin - Recipes directory "Recipes"
 Added new html page "Empanadas" added link to page in the "index.html" page.
+
+Added image of food, 3 paragraphs describing the food and it's origins and Ol and UL steps and ingredients.
